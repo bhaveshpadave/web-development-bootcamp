@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    margin-right: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+    padding-left: .3rem;
+}
+
+p{
+    padding-left: 0.5rem;
+    text-align: justify;
+}
+
+.content{
+    border: 2px double;
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin: 50px 25%;
+    padding: 1em;
+    padding-right: 1.5em;
+    font-family: 'Libre Baskerville', serif;
+}
