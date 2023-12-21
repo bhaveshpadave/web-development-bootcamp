@@ -1,4 +1,4 @@
-# This the practise folder of Web Development Bootcamp 2023 on Udemy.
+# This is the practise folder of Web Development Bootcamp 2023 on Udemy.
 # The folders are various exersises given by the instructor in lessons during the course.
 # Each folder has solution folder or file given by instructor and my practise files.
 
